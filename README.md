@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guitarplayer050
 - 👀 I’m interested in Minecraft
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on nothing(what means cllobrate XD)
+- 💞️ I’m looking to collaborate on nothing(what means collobrate XD)
 - 📫 How to reach me: discord
 
 <!---
